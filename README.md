@@ -40,9 +40,9 @@ We are a community of student developers, open-source enthusiasts, and tech crea
 ---
 
 ## 🔗 Connect With Us
-- 🌐 **Website:** [geekroom.in](https://geekroom.framer.website/about-us)) *(Update link if applicable)*
-- 💼 **LinkedIn:** [[Geek Room ADGIPS](https://www.linkedin.com/company/geekroomadgips/posts/?feedView=all)
-- 📸 **Instagram:** [[@geekroom_adgips](https://instagram.com)](https://www.instagram.com/geekroom_adgips/)
+- 🌐 **Website:** [geekroom.in](https://geekroom.framer.website/about-us) *(Update link if applicable)*
+- 💼 **LinkedIn:** [Geek Room ADGIPS](https://www.linkedin.com/company/geekroomadgips/posts/?feedView=all)
+- 📸 **Instagram:** [@geekroom_adgips](https://www.instagram.com/geekroom_adgips/)
 - 📧 **Contact:** `himanshu2725pathak@gmail.com`
 
 ---
